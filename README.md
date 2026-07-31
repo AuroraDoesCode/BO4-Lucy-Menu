@@ -18,6 +18,7 @@
   <p align="center">
 	A Free, Open Source, Fully Maintained BO4 GSC Mod Menu for PC & PS4.<br>For Battle.net, Shield Client & Homebrew PS4 Consoles!
     <br />
+	  <h1 align="center">T7 Compiler is currently Broken, and I have no ETA on a fix. The menu will only work on Shield Client right now.</h1>
     <a href="https://github.com/TheUnknownCod3r/BO4-Lucy-Menu/issues">Report Bug</a>
     ·
     <a href="https://github.com/TheUnknownCod3r/BO4-Lucy-Menu/issues">Request Feature</a>
