@@ -18,7 +18,7 @@
   <p align="center">
 	A Free, Open Source, Fully Maintained BO4 GSC Mod Menu for PC & PS4.<br>For Battle.net, Shield Client & Homebrew PS4 Consoles!
     <br />
-	  <h1 align="center">Alternate Fork of T7 Compiler: https://github.com/AuroraDoesCode/t7-compiler (Includes BO3 / BO4 Fixes, soon Cold War as well.)</h1>
+	  <h1 align="center">Alternate Fork of T7 Compiler: https://github.com/AuroraDoesCode/t7-compiler-custom (Should work on BO3, BO4, and Cold War.)</h1>
     <a href="https://github.com/TheUnknownCod3r/BO4-Lucy-Menu/issues">Report Bug</a>
     ·
     <a href="https://github.com/TheUnknownCod3r/BO4-Lucy-Menu/issues">Request Feature</a>
