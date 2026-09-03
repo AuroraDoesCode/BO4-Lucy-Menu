@@ -56,9 +56,8 @@ These Instructions Apply to BOTH Battle.net, and Shield Client.
 
 
 
-<!-- USAGE EXAMPLES -->
 ## Usage
-	To use The Mod Menu, The following instructions can be used with ease. 
+Video Guide located [Here](https://www.youtube.com/watch?v=h_XE8kQIttc), or for a text guide, The following instructions can be used with ease. 
 	
 	1. Download a Compiled Version of the Menu from Releases, and save it to your desktop.
 	
@@ -305,6 +304,8 @@ This wouldn't be possible without the following people
   	The GUI for T8 Compiler.
 * [Muzzman](https://discord.gg/muzzman)
   	Compiled for PS4 and Tested.
+* [ZombieSlayaMr](https://www.youtube.com/@zombieslayamr)
+  	Provided the video guide for code Injection
 
 * several community members supplied the unhashed weapon names. 
 
